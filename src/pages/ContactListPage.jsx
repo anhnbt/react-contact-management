@@ -38,7 +38,7 @@ function ContactListPage() {
 
   return (
     <div className="container">
-      <h1>Contact List</h1>
+      <h1>Contact Management</h1>
       <form onSubmit={handleSearch}>
         <input
           type="text"
